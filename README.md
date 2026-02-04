@@ -102,6 +102,8 @@ Traceback (most recent call last):
     result = 1 / 0
 ZeroDivisionError: division by zero
 ```
+##Sample:
+![Screenshot](./imgs/logging.png)
 
 ## Log File Structure
 
